@@ -1,1 +1,1 @@
-alert("Developed with ♥️ by Sreeju \n\n Follow my: \n\n Sololearn: https://www.sololearn.com/Profile/20995432/?ref=app \n\n Github: https://github.com/sreeju-git \n\n Youtube: https://www.youtube.com/c/CodingBot")
+alert("Shift + Enter to execute the code")
